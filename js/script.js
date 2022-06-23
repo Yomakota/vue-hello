@@ -10,7 +10,7 @@ var app = new Vue (
         el: '#root', 
         data: { 
             message: 'Hello World by vuejs',
-            image: 'https://picsum.photos/400/600'
+            image: 'https://picsum.photos/500/600'
         }
     }
 );
